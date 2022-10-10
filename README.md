@@ -5,5 +5,5 @@ Launch timeleft - 2days(12 October 2022)
 <br>
 <h2>About</h2>
 <p>
-goDocs is a very simple **Open Source Documentation Website**. It is already designed and is available in three color themes. You can also customize the theme. The project size is very less and is efficient. It is free of cost.
+  goDocs is a very simple <b>Open Source Documentation Website</b>. It is already designed and is available in three color themes. You can also customize the theme. The project size is very less and is efficient. It is free of cost.
 </p>
