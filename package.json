@@ -1,0 +1,8 @@
+{
+  "name": "heyDocs",
+  "version": "1.0",
+  "description": "Made Documentation Easy!",
+  "main": "index.js",
+  "author": "Shameek Biswas",
+  "license": "MIT"
+}
