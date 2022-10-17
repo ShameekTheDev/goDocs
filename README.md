@@ -3,7 +3,7 @@
 <h3>goDocs is renamed to heyDocs.</h3>
 <h2>About</h2>
 <p>
-heyDocs is a very simple <b>Open Source Documentation Website</b> presented to you by [@ShameekTheDev](https://github.com/ShameekTheDev) <a href="https://github.com/ShameekTheDev" title="Shameek Biswas">@ShameekTheDev</a>
+heyDocs is a very simple <b>Open Source Documentation Website</b> presented to you by <a href="https://github.com/ShameekTheDev" title="Shameek Biswas">@ShameekTheDev</a>
  aka Shameek Biswas. It is already designed and is available in three color themes. You can also customize the theme. The project size is very less and is efficient. It is free of cost.
 </p>
 
