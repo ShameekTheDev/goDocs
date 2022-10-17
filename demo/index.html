@@ -577,7 +577,31 @@ footer {
 
 .nexttopic {
 	background-color: rgb(155, 155, 155);
-}</style>
+}
+</style>
+
+<script>
+function afterThemeDownloadMessage() {
+  alert("Thank you for downloading. Hope you will like it. Don't forget to give credits to heyDocs.")
+}
+
+$(document).ready(function () {
+    $('#sidebarCollapse').on('click', function () {
+        $('#sidebar').toggleClass('active');
+    });
+});
+
+$('body').click(function(e) {
+    if ($('.menu').hasClass('bar')) {
+      $(".menu").toggleClass('bar')
+    }
+  })
+
+// Rating Initialization
+$(document).ready(function() {
+    $('#rateMe1').mdbRate();
+  });
+</script>
 </body>
 
 </html>
